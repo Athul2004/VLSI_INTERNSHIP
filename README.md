@@ -1,7 +1,7 @@
 # VLSI internship at SMEClabs
 
 Welcome to my VLSI internship repository at **SMEC Labs**. This repository contains a series of VHDL-based digital design modules that I developed and simulated as part of my internship training. These designs cover a wide range of fundamental building blocks used in modern digital systems.
-
+![Counter Waveform](https://github.com/Athul2004/VLSI_INTERNSHIP/blob/4b84328d6ca4da32906dfa26379a0fccc2bb82eb/vlsi_certi.jpg)
 ## 📁 Project Overview
 
 During this internship, I focused on the RTL (Register Transfer Level) design and simulation of essential digital logic components using **VHDL**. The projects demonstrate skills in structural and behavioral modeling, as well as a good understanding of testbenches for functional verification.
