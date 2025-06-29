@@ -1,4 +1,4 @@
-# SMEC Labs VLSI Internship Projects
+# VLSI Internship Works
 
 Welcome to my VLSI internship repository at **SMEC Labs**. This repository contains a series of VHDL-based digital design modules that I developed and simulated as part of my internship training. These designs cover a wide range of fundamental building blocks used in modern digital systems.
 
