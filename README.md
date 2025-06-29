@@ -1,43 +1,45 @@
-# VHDL Digital Logic Components
+# SMEC Labs VLSI Internship Projects
 
-> **Internship Project at SMEC Labs**
+Welcome to my VLSI internship repository at **SMEC Labs**. This repository contains a series of VHDL-based digital design modules that I developed and simulated as part of my internship training. These designs cover a wide range of fundamental building blocks used in modern digital systems.
 
-This repository contains initial VHDL implementations of fundamental digital logic components developed during my internship at SMEC Labs. These modules serve as essential building blocks for digital system design, verification, and simulation.  
+## 📁 Project Overview
 
-## 🚀 Components Implemented
+During this internship, I focused on the RTL (Register Transfer Level) design and simulation of essential digital logic components using **VHDL**. The projects demonstrate skills in structural and behavioral modeling, as well as a good understanding of testbenches for functional verification.
 
-- **Adders**  
-  - Half Adder  
-  - Full Adder  
-  - Ripple Carry Adder  
+## 🛠️ Implemented Modules
 
-- **Arithmetic Logic Units (ALU)**  
-  - 4-bit ALU supporting arithmetic and logic operations  
+The following VHDL modules were developed:
 
-- **Multiplexers**  
-  - 2:1 MUX  
-  - 4:1 MUX  
-  - 8:1 MUX  
+- **Adders**
+  - Half Adder
+  - Full Adder
+- **Arithmetic Logic Unit (ALU)**
+- **Multiplexers**
+  - MUX (Multiplexer)
+- **Logic Gates**
+  - NOT Gate
+  - NAND (implemented using AND gates)
+  - AND Gate
+  - OR Gate
+- **Flip-Flops**
+  - D Flip-Flop
+  - JK Flip-Flop
+  - SR Flip-Flop
+  - T Flip-Flop
+- **Counters**
+  - 2-bit Counter using D Flip-Flop
+  - Johnson Counter
+  - Ring Counter
+- **Shift Registers**
+  - Bidirectional Shift Register
+  - SISO (Serial-In Serial-Out)
+  - PIPO (Parallel-In Parallel-Out)
+- **Encoders**
+  - Encoder
 
-- **Flip-Flops**  
-  - D Flip-Flop  
-  - JK Flip-Flop  
-  - T Flip-Flop  
+## 🧪 Testing
 
-- **Counters**  
-  - 4-bit synchronous counter  
-  - 4-bit asynchronous counter  
+Each module includes a VHDL testbench to verify its correctness under various input conditions. Simulations were performed to confirm functional accuracy.
 
-- **Logic Gates**  
-  - AND  
-  - OR  
-  - NOT  
-  - NAND  
-  - NOR  
-  - XOR  
-
-## 🛠️ Getting Started
-
-These modules are written in VHDL and can be simulated using any standard VHDL simulator such as ModelSim, Vivado, or GHDL.  
-
+## 🗂️ File Structure
 
